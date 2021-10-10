@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App].
 1. reURL
    1. 跳轉
    2. 縮址
-   3. 臨時網頁儲存(chrome expensive)
+   3. 臨時網頁儲存(chrome extension)
    4. 密碼
    5. 紀錄
    6. commit
@@ -25,7 +25,6 @@ This project was bootstrapped with [Create React App].
 ## 預計使用
 ### 前端
 - [Fusion Design]：dashboard
-- [wappalyzer]：網頁分析
 - [next-seo]：Next js 的 SEO 項目
 
 ### 後端
@@ -33,6 +32,7 @@ This project was bootstrapped with [Create React App].
 - [headless-chrome-crawler]：爬蟲
 - [NodeJS SEO Scraper]：網頁、SEO分析爬蟲
 - [openGraphScraper]：SEO解析
+- [wappalyzer]：網頁分析
 
 ## Available Scripts
 
