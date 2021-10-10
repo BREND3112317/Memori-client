@@ -1,6 +1,38 @@
-# Getting Started with Create React App
+# Memori - Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App].
+
+## 任務
+1. reURL
+   1. 跳轉
+   2. 縮址
+   3. 臨時網頁儲存(chrome expensive)
+   4. 密碼
+   5. 紀錄
+   6. commit
+2. 網頁分析
+   1. SEO分析
+   2. 詞彙統計
+   3. 網頁暫存
+3. 爬蟲代理
+
+## 應用技術
+### 前端
+- [React JS]：介面基底
+- [Ant Design v4.17.0-alpha.5]：介面框架
+- [Bootstrap v5.1]：排版輔助
+
+## 預計使用
+### 前端
+- [Fusion Design]：dashboard
+- [wappalyzer]：網頁分析
+- [next-seo]：Next js 的 SEO 項目
+
+### 後端
+- [site-audit-seo]：SEO 站點審計，抓取站點、燈塔所有頁面、在瀏覽器中查看公共報告
+- [headless-chrome-crawler]：爬蟲
+- [NodeJS SEO Scraper]：網頁、SEO分析爬蟲
+- [openGraphScraper]：SEO解析
 
 ## Available Scripts
 
@@ -9,15 +41,15 @@ In the project directory, you can run:
 ### `yarn start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000] to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
+<!-- 
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests] for more information.
 
 ### `yarn build`
 
@@ -27,44 +59,18 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment] for more information. -->
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Ant Design v4.17.0-alpha.5]: https://ant.design/index-cn
+[Bootstrap v5.1]: https://getbootstrap.com/docs/5.1/getting-started/introduction/
+[Fusion Design]: https://fusion.design/pc/?themeid=2
+[wappalyzer]: https://www.npmjs.com/package/wappalyzer
+[next-seo]: https://github.com/garmeeh/next-seo
+[site-audit-seo]: https://github.com/viasite/site-audit-seo
+[NodeJS SEO Scraper]: https://www.npmjs.com/package/seo-scraper
+[openGraphScraper]: https://github.com/jshemas/openGraphScraper
+[Create React App]: https://github.com/facebook/create-react-app
+[http://localhost:3000]: http://localhost:3000
+[localhost]: http://localhost:3000
+[running tests]: https://facebook.github.io/create-react-app/docs/running-tests
+[deployment]: https://facebook.github.io/create-react-app/docs/deployment
