@@ -18,7 +18,7 @@ This project was bootstrapped with [Create React App].
 
 ## 應用技術
 ### 前端
-- [React JS]：介面基底
+- [ReactJS v17.0.2]：介面基底
 - [Ant Design v4.17.0-alpha.5]：介面框架
 - [Bootstrap v5.1]：排版輔助
 
@@ -45,11 +45,11 @@ Open [http://localhost:3000] to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-<!-- 
-### `yarn test`
+
+<!-- ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests] for more information.
+See the section about [running tests] for more information. -->
 
 ### `yarn build`
 
@@ -59,14 +59,16 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment] for more information. -->
+See the section about [deployment] for more information.
 
+[ReactJS v17.0.2]: https://zh-hant.reactjs.org/
 [Ant Design v4.17.0-alpha.5]: https://ant.design/index-cn
 [Bootstrap v5.1]: https://getbootstrap.com/docs/5.1/getting-started/introduction/
 [Fusion Design]: https://fusion.design/pc/?themeid=2
 [wappalyzer]: https://www.npmjs.com/package/wappalyzer
 [next-seo]: https://github.com/garmeeh/next-seo
 [site-audit-seo]: https://github.com/viasite/site-audit-seo
+[headless-chrome-crawler]: [headless-chrome-crawler]
 [NodeJS SEO Scraper]: https://www.npmjs.com/package/seo-scraper
 [openGraphScraper]: https://github.com/jshemas/openGraphScraper
 [Create React App]: https://github.com/facebook/create-react-app
